@@ -8,7 +8,7 @@ This repository contains the research paper, code implementation, and presentati
 - **Conference/Journal**: [Conference Name or Journal]  
 - **Abstract**:  
   > Knee Osteoarthritis (KOA) is a progressive musculoskeletal disorder that affects millions worldwide, leading to severe joint pain and mobility limitations. Early prediction of KOA progression is crucial for timely intervention and improved patient outcomes. This study leverages Machine Learning (ML) techniques to address challenges such as **class imbalance, biomarker integration, and temporal dynamics** in KOA progression prediction. We explore multiple ML models, including **Random Forest, SVM, Logistic Regression, and Deep Learning architectures such as CNNs and ANNs**. Additionally, **SMOTE (Synthetic Minority Over-sampling Technique)** is employed to handle class imbalance, and advanced feature engineering techniques are applied to enhance model accuracy. Our results demonstrate the potential of ML-driven approaches in improving early KOA diagnosis and progression analysis.  
-- 📄 **[Read the Full Paper](KOA.pdf)**  
+- 📄 **[Read the Full Paper](https://github.com/Pranjalpranay/Knee-Osteoarthritis-Progression-Prediction-using-Machine-Learning-/blob/main/KOA%20(1).pdf)**  
 
 ## 📊 Presentation  
 📢 **Presentation slides will be uploaded soon!**   
